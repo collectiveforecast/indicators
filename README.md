@@ -1,4 +1,4 @@
-# Cofo Indicators
+# CoFo Indicators
 
 A TypeScript library providing a collection of **technical indicators** and utility functions for financial OHLCV data analysis.
 
